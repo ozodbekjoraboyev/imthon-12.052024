@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1990px;
+    margin: 0 auto;
+    color: aliceblue;
+    align-items: center;
+    padding: 20px;
+}
+
+body {
+    background-color: #1e1e1e;
+}
+
+.home__logo {
+    color: aliceblue;
+}
+
+.home__nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+ul {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+li {
+    justify-content: end;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    border: 1px solid transparent;
+    transition: 0.3s;
+}
+
+a:hover {
+    border-bottom: 2px solid rgb(229, 255, 0);
+    color: rgb(255, 0, 0);
+}
+
+.main {
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 150px;
+    padding-left: 160px;
+    max-width: 1590px;
+    padding-top: 90px;
+    flex-wrap: wrap;
+}
+
+.profel__teht {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: Montserrat;
+    padding-top: 50px;
+}
+
+.profel__teht h2 {
+    color: yellow;
+    padding-top: 10px;
+    font-family: Montserrat;
+    font-weight: 400;
+}
+
+.profel__lorem {
+    font-family: Montserrat;
+}
+
+.profel__lorem p {
+    font-size: 20px;
+    max-width: 400px;
+    padding-bottom: 29px;
+}
+
+.profel__lorem h2 {
+    padding-bottom: 29px;
+    font-size: 35px;
+}
+
+.btn1 {
+    padding: 10px 35px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    background-color: darkgray;
+}
+
+.btn2 {
+    padding: 10px 38px;
+    cursor: pointer;
+    border: none;
+    background-color: yellow;
+}
+
+.btn1:hover {
+    background-color: chartreuse;
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.btn1:active {
+    transform: scale(0.8);
+}
+
+.div2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.divv {
+    width: 450px;
+    font-size: 22px;
+    font-family: Montserrat;
+}
+
+.info {
+    opacity: 0.3;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.img {
+    width: 550px;
+    height: 350px;
+}
+
+.btn2:hover {
+    background-color: rgb(8, 151, 0);
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.btn2:active {
+    transform: scale(0.8);
+}
+
+.futr {
+    text-align: center;
+    padding-top: 120px;
+}
+
+.futr p {
+    padding-top: 20px;
+}
+
+
+@media (max-width: 1200px) {
+    .main {
+        flex-direction: column;
+        padding-right: 30px;
+        padding-left: 30px;
+        padding-top: 50px;
+    }
+
+    .img {
+        width: 100%;
+        height: auto;
+    }
+
+    .divv {
+        width: 100%;
+        font-size: 20px;
+    }
+
+    .profel__lorem p {
+        font-size: 18px;
+        max-width: 100%;
+    }
+
+    .profel__lorem h2 {
+        font-size: 30px;
+    }
+
+    .btn1, .btn2 {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    .main {
+        flex-direction: column;
+        padding: 20px;
+        padding-top: 20px;
+    }
+
+    .img {
+        width: 100%;
+        height: auto;
+    }
+
+    .divv {
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .profel__lorem p {
+        font-size: 16px;
+        max-width: 100%;
+    }
+
+    .profel__lorem h2 {
+        font-size: 26px;
+    }
+
+    .btn1, .btn2 {
+        padding: 8px 20px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .main {
+        padding: 10px;
+        padding-top: 10px;
+    }
+
+    .img {
+        width: 100%;
+        height: auto;
+    }
+
+    .divv {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .profel__lorem p {
+        font-size: 14px;
+        max-width: 100%;
+    }
+
+    .profel__lorem h2 {
+        font-size: 22px;
+    }
+
+    .btn1, .btn2 {
+        padding: 8px 15px;
+        width: 100%;
+    }
+}

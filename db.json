@@ -1,0 +1,267 @@
+{
+  "home": {
+    "item": {
+      "item": {
+        "item": {
+          "item": {
+            "item": {
+              "item": {
+                "item": {
+                  "title": "Welcome to My Portfolio",
+                  "subtitle": "Crafting web solutions with passion and precision",
+                  "heroImage": "https://via.placeholder.com/1920x1080",
+                  "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.",
+                  "ctaButton": {
+                    "text": "View My Work",
+                    "link": "/portfolio"
+                  }
+                },
+                "title": "Welcome to My Portfolio",
+                "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.",
+                "subtitle": "Crafting web solutions with passion and precision",
+                "heroImage": "https://via.placeholder.com/1920x1080",
+                "ctaButton": {
+                  "text": "View My Work",
+                  "link": "/portfolio"
+                }
+              },
+              "title": "Welcome to My Portfolio",
+              "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.",
+              "subtitle": "Crafting web solutions with passion and precision",
+              "heroImage": "https://via.placeholder.com/1920x1080",
+              "ctaButton": {
+                "text": "View My Work",
+                "link": "/portfolio"
+              }
+            },
+            "title": "Welcome to My Portfoliojh",
+            "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.",
+            "subtitle": "Crafting web solutions with passion and precision",
+            "heroImage": "https://via.placeholder.com/1920x1080",
+            "ctaButton": {
+              "text": "View My Work",
+              "link": "/portfolio"
+            }
+          },
+          "title": "Welcome to My Portfoliojh",
+          "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.",
+          "subtitle": "Crafting web solutions with passion and precision",
+          "heroImage": "https://via.placeholder.com/1920x1080",
+          "ctaButton": {
+            "text": "View My Work",
+            "link": "/portfolio"
+          }
+        },
+        "title": "Welcome to My Portfoliojheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.",
+        "subtitle": "Crafting web solutions with passion and precision",
+        "heroImage": "https://via.placeholder.com/1920x1080",
+        "ctaButton": {
+          "text": "View My Work",
+          "link": "/portfolio"
+        }
+      },
+      "title": "Welcome to My Portfoliojheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.",
+      "subtitle": "Crafting web solutions with passion and precision",
+      "heroImage": "https://via.placeholder.com/1920x1080",
+      "ctaButton": {
+        "text": "View My Work",
+        "link": "/portfolio"
+      }
+    },
+    "title": "Welcome to My Portfoliojh",
+    "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.",
+    "subtitle": "Crafting web solutions with passion and precision",
+    "heroImage": "https://via.placeholder.com/1920x1080",
+    "ctaButton": {
+      "text": "View My Work",
+      "link": "/portfolio"
+    }
+  },
+  "portfolio": [
+    {
+      "title": "E-CommeADDrcACe Website",
+      "description": "Bundan 110 yil avval, 1912-yil 15-aprelda, “Titanik” kemasi aysbergga urilib, cho‘kib ketgan. U 10-aprelda o‘zining ilk va so‘nggi sayohatini boshlagandi.",
+      "img": "https://focus.ua/static/storage/thumbs/920x465/5/5d/28ac97cd-874c6128fee764ba5c9944d61493d5d5.jpg?v=1799_1",
+      "id": "1",
+      "theme": "2222222222222222222222222222222",
+      "language": "Language: Language: Language: ",
+      "primaryColor": "Primary Color: Primary Color: Primary Color: ",
+      "contactEmail": "Contact Email: Contact Email: N/A",
+      "comment": "Comment: Comment: N/A",
+      "commentForm": "Comment Form: Commenvdsfsfst Form: N/A"
+    },
+    {
+      "id": "2",
+      "title": "Portfoefewflio Website",
+      "description": "„The Avengers“ premyerasi 2012-yilning 11-aprelida Los-Anjeles shahrida boʻlib oʻtgan. Umumjahon boʻylab kinoprokatlarda $1,5 milliard ishlab topib, oʻsha vaqtda tarixdagi uchinchi eng kassabop filmga",
+      "img": "https://storage.kun.uz/source/uploads/20190104/2874088087101.jpg",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "image": "https://via.placeholder.com/800x600",
+      "link": "https://example.com/portfolio"
+    },
+    {
+      "id": "3",
+      "title": "Mobile App",
+      "description": "Muzlik yillab, asrlab qor yigʻilishi uning ablatsiyasidan (erish va sublimatsiya) oshib ketgan yerlarda shakllanadigan doimiy katta muz jismidir. Muzlik yuzasi kamida 0.1 km², qalinligi esa 50 m boʻladi, u bunday vazn",
+      "img": "https://i.ytimg.com/vi/UIfjG3N9XUw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD-bG7w6jU9VFFpOK1z0bKmTpau7w",
+      "technologies": [
+        "Flutter",
+        "Firebase"
+      ],
+      "image": "https://via.placeholder.com/800x600",
+      "link": "https://example.com/mobile-app"
+    }
+  ],
+  "setup": [
+    {
+      "id": "1",
+      "theme": "ASUS X509F",
+      "language": "Intel Core I7-8th Gen",
+      "primaryColor": "RAM 8GB",
+      "contactEmail": "HDD 1TB",
+      "comrnt": "Display FHD 15.6” ",
+      "comform": "NVIDIA® MX250 2GB"
+    },
+    {
+      "id": "2",
+      "theme": "ASUS E502S ",
+      "language": "Intel Celeron N3050",
+      "primaryColor": "RAM 4GB",
+      "contactEmail": "SSD 480 GB ",
+      "comrnt": "Display HD 15.6”",
+      "comform": "Intel HD Graphics"
+    },
+    {
+      "id": "3",
+      "theme": "Keyboard & Mouse",
+      "language": "Rapoo multi-wireless keyboard, mouse",
+      "primaryColor": "AVTECH"
+    }
+  ],
+  "aboutme": {
+    "item": {
+      "item": {
+        "item": {
+          "item": {
+            "item": {
+              "item": {
+                "item": {
+                  "item": {
+                    "name": "Jane Doe",
+                    "job": "frontend developer",
+                    "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions.",
+                    "experience": [
+                      {
+                        "role": "Frontend Developer",
+                        "company": "Tech Solutions Inc.",
+                        "duration": "Jan 2020 - Present",
+                        "responsibilities": [
+                          "Developed responsive web designs using React and Tailwind CSS.",
+                          "Collaborated with cross-functional teams to ensure seamless project delivery.",
+                          "Optimized website performance for improved user experience."
+                        ]
+                      },
+                      {
+                        "role": "Web Developer Intern",
+                        "company": "Startup Hub",
+                        "duration": "May 2019 - Dec 2019",
+                        "responsibilities": [
+                          "Built landing pages and prototypes for startup clients.",
+                          "Integrated APIs to enhance functionality.",
+                          "Conducted user testing to ensure design responsiveness."
+                        ]
+                      }
+                    ],
+                    "skills": [
+                      "JavaScript",
+                      "React",
+                      "Node.js",
+                      "CSS",
+                      "HTML",
+                      "REST APIs",
+                      "Git"
+                    ],
+                    "image": "https://via.placeholder.com/150"
+                  },
+                  "name": "Jane Doe",
+                  "job": "frontend developer",
+                  "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions."
+                },
+                "name": "Jane Doe",
+                "job": "frontend developer",
+                "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions."
+              },
+              "name": "Ozodbek",
+              "job": "frontend developer",
+              "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions."
+            },
+            "name": "Ozodbek...",
+            "job": "frontend developer",
+            "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions."
+          },
+          "name": "Ozodbek...",
+          "job": "frontend developer",
+          "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions."
+        },
+        "name": "Ozodbek...",
+        "job": "frontend developer",
+        "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions."
+      },
+      "name": "Ozodbek....",
+      "job": "frontend developer",
+      "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions."
+    },
+    "name": "Ozodbek....",
+    "job": "frontend developer",
+    "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions."
+  },
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "role": "Project Manager, TechCorp",
+      "message": "Jane's dedication and attention to detail are exceptional. She always delivers beyond expectations!",
+      "image": "https://i.ytimg.com/vi/wS8TD7lGMKg/hqdefault.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Emily Davis",
+      "role": "CEO, Startup Co.",
+      "message": "Working with Jane was a pleasure. Her ability to solve complex problems is unmatched.",
+      "image": "https://frankfurt.apollo.olxcdn.com/v1/files/58skwf84b7pm2-UZ/image"
+    }
+  ],
+  "contact": {
+    "item": {
+      "item": {
+        "item": {
+          "item": {
+            "email": "your-email@example.com",
+            "phone": "+123-456-7890",
+            "address": "123 Developer Lane, Tech City, TX, 12345",
+            "mapLink": "https://maps.google.com"
+          },
+          "email": "your-email@example.com",
+          "phone": "+123-456-7890",
+          "address": "123 Developer Lane, Tech City, TX, 12345"
+        },
+        "email": "your-email@example.com",
+        "phone": "+123-456-7fwf890",
+        "address": "123 Developer Lane, fwfTech City, TX, 12345"
+      },
+      "email": "your-email@example.com",
+      "phone": "+123-456-7fwf890",
+      "address": "123 Developer Lane, fwfTech City, TX, 12345"
+    },
+    "email": "your-emfail@example.com",
+    "phone": "+123-456-7fdewf890",
+    "address": "123 Developer Ladne, fwfTech City, TX, 12345"
+  }
+}
